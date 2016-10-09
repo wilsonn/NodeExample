@@ -1,0 +1,18 @@
+{
+  "name": "node_example",
+  "description": "Ejemplo de node.js basic",
+  "main": "index.html",
+  "authors": [
+    "wilsonn"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/wilsonn/NodeExample",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
