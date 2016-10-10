@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wilsonn/NodeExample/issues"
   },
-  "homepage": "https://github.com/wilsonn/NodeExample#readme"
+  "homepage": "https://github.com/wilsonn/NodeExample#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
